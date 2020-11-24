@@ -8,8 +8,8 @@ replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
 
 require (
 	github.com/aws/aws-sdk-go v1.35.34 // indirect
-	github.com/chanho3114/shippy-service-user v0.0.0-20201116005821-3d286025d3da
-	github.com/chanho3114/shippy-service-vessel v0.0.0-20201123061756-7bf2226610bc
+	github.com/chanho3114/shippy-service-user v0.0.0-20201124040006-3ff5a6791efe
+	github.com/chanho3114/shippy-service-vessel v0.0.0-20201124035738-97e4ae4de61f
 	github.com/coreos/etcd v3.3.25+incompatible // indirect
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect

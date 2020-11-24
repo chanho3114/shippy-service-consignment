@@ -88,10 +88,14 @@ github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA
 github.com/cespare/xxhash v1.1.0/go.mod h1:XrSqR1VqqWfGrhpAt58auRo0WTKS1nRRg3ghfAqPWnc=
 github.com/chanho3114/shippy-service-user v0.0.0-20201116005821-3d286025d3da h1:Q5nnKUQeX3MDU8igwg9uRWyNzazsMn/6wv7ViGdlODw=
 github.com/chanho3114/shippy-service-user v0.0.0-20201116005821-3d286025d3da/go.mod h1:gXqE0Q3gLA5HDzajMWrzXkFIMZup40BZeQDeE2Vxw7Q=
+github.com/chanho3114/shippy-service-user v0.0.0-20201124040006-3ff5a6791efe h1:D1/Od6ZOx0LBFy18/DCa1xGlfZ6n2x7L5vC8HGLSrlk=
+github.com/chanho3114/shippy-service-user v0.0.0-20201124040006-3ff5a6791efe/go.mod h1:UQzdHNrxXvPJi1/3wNyEKgiVIpvlpJOlETz33/nHYas=
 github.com/chanho3114/shippy-service-vessel v0.0.0-20201102020727-0ed95f3766ba h1:m+GT0S0x6cE6ZwVcy3OjPdw6xVFFQgAurA/WNpi+aNQ=
 github.com/chanho3114/shippy-service-vessel v0.0.0-20201102020727-0ed95f3766ba/go.mod h1:fau7Gh/NA3DMvMfXX+1LED3e7ENc23nSvANmARNZiiw=
 github.com/chanho3114/shippy-service-vessel v0.0.0-20201123061756-7bf2226610bc h1:sCPr7HpF3BdR52cJsBLxFp0JB+vvDYPObRQkqPySKyw=
 github.com/chanho3114/shippy-service-vessel v0.0.0-20201123061756-7bf2226610bc/go.mod h1:qe7gIsGYB1geSzOHetQrh2PrG1IOheoMBhaHVXu4DGY=
+github.com/chanho3114/shippy-service-vessel v0.0.0-20201124035738-97e4ae4de61f h1:lP8GtDPcDbAEMNnYkS1K7UrJZcSdQ2xXvtSPqkKrKpo=
+github.com/chanho3114/shippy-service-vessel v0.0.0-20201124035738-97e4ae4de61f/go.mod h1:UqqPzRR8qsoVeflWOkFER4gM+CpUk7gOe70ON1ig980=
 github.com/cheekybits/genny v1.0.0 h1:uGGa4nei+j20rOSeDeP5Of12XVm7TGUd4dJA9RDitfE=
 github.com/cheekybits/genny v1.0.0/go.mod h1:+tQajlRqAUrPI7DOSpB0XAqZYtQakVtB7wXkRAgjxjQ=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
@@ -565,6 +569,7 @@ github.com/rogpeppe/fastuuid v0.0.0-20150106093220-6724a57986af/go.mod h1:XWv6So
 github.com/rogpeppe/go-internal v1.1.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/rogpeppe/go-internal v1.2.2/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
+github.com/russross/blackfriday v1.5.2 h1:HyvC0ARfnZBqnXwABFeSZHpKvJHJJfPz81GNueLj0oo=
 github.com/russross/blackfriday v1.5.2/go.mod h1:JO/DiYxRf+HjHt06OyowR9PTA263kcR/rfWxYHBV53g=
 github.com/russross/blackfriday/v2 v2.0.1 h1:lPqVAte+HuHNfhJ/0LC98ESWRz8afy9tM/0RK8m9o+Q=
 github.com/russross/blackfriday/v2 v2.0.1/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
