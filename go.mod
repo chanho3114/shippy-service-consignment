@@ -20,6 +20,7 @@ require (
 	github.com/google/uuid v1.1.2 // indirect
 	github.com/imdario/mergo v0.3.11 // indirect
 	github.com/klauspost/compress v1.11.3 // indirect
+	github.com/lucas-clemente/quic-go v0.19.2 // indirect
 	github.com/micro/go-micro v1.18.0
 	github.com/micro/go-micro/v2 v2.9.1
 	github.com/miekg/dns v1.1.35 // indirect
